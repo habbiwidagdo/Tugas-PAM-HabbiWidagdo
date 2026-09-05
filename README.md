@@ -25,3 +25,10 @@ Kelas : Pengembangan Aplikasi Mobile RA
       <img src="assets\AplikasiHaloOffClick.jpeg" style="width:20%">
     - Aplikasi Halo setelah tombol di klik:\
       <img src="assets\AplikasiHaloOnClick.jpeg" style="width:20%">
+
+## Catatan Penting!
+> Aplikasi ini diinstall hanya di perangkat smartphone langsung, bukan menggunakan AVD. Sehingga dibutuhkan tahap setup khusus pada perangkat smartphone menjadi mode developers agar Android Studio dapat membaca smartphone dan dapat menginstall aplikasi secara langsung. Detail tutorial cara setup dapat tonton video YouTube [tutorial setup smartphone](https://www.youtube.com/watch?v=aMzuljlD6oM).
+
+## Referensi
+* [Cara membuat aplikasi Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform/multiplatform-create-first-app.html)
+* [Apa itu Android Virtual Device? dan bagaimana cara membuatnya?](https://developer.android.com/studio/run/managing-avds?hl=id) (sebagai panduan anda jika tidak ingin atau tidak memiliki perangkat smartphone)
